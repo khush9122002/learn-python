@@ -29,7 +29,7 @@ print(l[:6:2])
 # l.sort(reverse=True)
 # l.reverse()
 # print(l)
-exit()
+exit()   # last here ===== 16/10/24
 # truple
 t=(1,2,4,2)
 # print(t.index(2))
